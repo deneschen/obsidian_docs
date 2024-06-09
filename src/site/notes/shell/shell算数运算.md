@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shell/shell算数运算/","noteIcon":""}
+{"dg-publish":true,"permalink":"/shell/shell算数运算/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ```bash
